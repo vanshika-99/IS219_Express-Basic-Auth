@@ -1,7 +1,11 @@
 Home Page
+![img.png](images/screenshot1.png)
 
-Register Page 
+Register Page
+![img.png](images/screenshot2.png)
 
-Login Page 
+Login Page
+![img.png](images/screenshot3.png)
 
-Protected Page 
+Protected Page
+![img.png](images/screenshot4.png)
